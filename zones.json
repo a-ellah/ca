@@ -1,0 +1,6 @@
+[
+  { "code": "all", "name": "All Pharmacies" },
+  { "code": "taher", "name": "Taher" },
+  { "code": "jijel", "name": "Jijel" },
+  { "code": "milia", "name": "Milia" }
+]
