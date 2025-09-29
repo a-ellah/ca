@@ -1,7 +1,7 @@
 [
   {
     "id": "open",
-    "name": "aaapens",
+    "name": "0pens",
     "coor": "36.81503866535423, 5.7647399597348",
     "map": "https://maps.app.goo.gl/6c1GbM3L5EMnyjsB8"
   },
@@ -22,7 +22,137 @@
     "name": "milia",
     "coor": "36.75268073386434, 6.266794606425286",
     "map": "https://maps.app.goo.gl/UVuQVGJorYUE87hx9"
+  },
+  {
+    "id": "ancer",
+    "name": "ancer",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "texenna",
+    "name": "texenna",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "yadjis",
+    "name": "yadjis",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "kaous",
+    "name": "kaous",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "emir",
+    "name": "emir",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "aouana",
+    "name": "aouana",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "chahna",
+    "name": "chahna",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "chekfa",
+    "name": "chekfa",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "selma",
+    "name": "selma",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "kennar",
+    "name": "kennar",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "oudjana",
+    "name": "oudjana",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "maarouf",
+    "name": "maarouf",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "rabah",
+    "name": "rabah",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "belhadef",
+    "name": "belhadef",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "askeur",
+    "name": "askeur",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "settara",
+    "name": "settara",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "yahia",
+    "name": "yahia",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "ghebala",
+    "name": "ghebala",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "habibi",
+    "name": "habibi",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "belaid",
+    "name": "belaid",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "abdelaziz",
+    "name": "abdelaziz",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
+  },
+  {
+    "id": "bordj",
+    "name": "bordj",
+    "coor": "36.807336339140484, 5.779170487965745",
+    "map": "https://maps.app.goo.gl/N1Hs9jYGZ8NB6zZP7"
   }
 ]
-
-
