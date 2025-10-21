@@ -1,7 +1,8 @@
 [
   {
     "id": "1",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "01-10-2025",
     "name": "خالفة مريم",
     "address": "نهج بوالجاغ السعيد (موقف الحافلات 300 مسكن)",
@@ -14,7 +15,8 @@
   },
   {
     "id": "2",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "02-10-2025",
     "name": "قوميدي محمد أمير",
     "address": "بورحيول بني عيسى (مقابل المستشفى)",
@@ -27,7 +29,8 @@
   },
   {
     "id": "3",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "03-10-2025",
     "name": "رماش دنيا",
     "address": "نهج اميرة (قرب مركز البريد)",
@@ -40,7 +43,8 @@
   },
   {
     "id": "4",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "04-10-2025",
     "name": "بوزقوق اميرة",
     "address": "بوشرقة (قبل المستشفى)",
@@ -53,7 +57,8 @@
   },
   {
     "id": "5",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "05-10-2025",
     "name": "ميلاس مريم",
     "address": "قرب محل الحلويات بوعنيقة",
@@ -66,7 +71,8 @@
   },
   {
     "id": "6",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "06-10-2025",
     "name": "شرماط هدى",
     "address": "نهج بوطمين فرحات (المحطة)",
@@ -79,7 +85,8 @@
   },
   {
     "id": "7",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "07-10-2025",
     "name": "بركاس ماجدة",
     "address": "شارع شتوان",
@@ -92,7 +99,8 @@
   },
   {
     "id": "8",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "08-10-2025",
     "name": "حاجي عبدالمحسن",
     "address": "شارع يوديز يوسف (قرب المستشفى القديم)",
@@ -105,7 +113,8 @@
   },
   {
     "id": "9",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "09-10-2025",
     "name": "بوسماحة مراد",
     "address": "طريق المستشفى",
@@ -118,7 +127,8 @@
   },
   {
     "id": "10",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "10-10-2025",
     "name": "بولفراخ حسيبة",
     "address": "محطة المسافرين",
@@ -131,7 +141,8 @@
   },
   {
     "id": "11",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "11-10-2025",
     "name": "سليماني سهيلة",
     "address": "حي مسكن 58 (مقابل مسجد سيدي يحي)",
@@ -144,7 +155,8 @@
   },
   {
     "id": "12",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "12-10-2025",
     "name": "بوعصرية نورالدين",
     "address": "شارع بلقرديد شريف (بوشرقة)",
@@ -157,7 +169,8 @@
   },
   {
     "id": "13",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "13-10-2025",
     "name": "عزام حورية",
     "address": "شارع المجاهدين (أولاد سويسى)",
@@ -170,7 +183,8 @@
   },
   {
     "id": "14",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "14-10-2025",
     "name": "برغيدة كمال",
     "address": "شارع كنيوة عاشور (مقهى كومباطة)",
@@ -183,7 +197,8 @@
   },
   {
     "id": "15",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "15-10-2025",
     "name": "بوكروم توفيق",
     "address": "بوشرقة (مقابل مخبر التحاليل بورويد)",
@@ -196,7 +211,8 @@
   },
   {
     "id": "16",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "16-10-2025",
     "name": "نعمان ريمة",
     "address": "حي مسكن800",
@@ -209,7 +225,8 @@
   },
   {
     "id": "17",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "17-10-2025",
     "name": "بن سوهايي نبيل",
     "address": "شارع المجاهدين (الطاهير)",
@@ -222,7 +239,8 @@
   },
   {
     "id": "18",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "18-10-2025",
     "name": "هوشي فضيلة",
     "address": "شارع دخلي مختار (مقابل المؤسسة متعددة الخدمات)",
@@ -235,7 +253,8 @@
   },
   {
     "id": "19",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "19-10-2025",
     "name": "مهيبل حسيبة",
     "address": "حي بوشرقة (بجانب المكتبة العملاقة)",
@@ -248,7 +267,8 @@
   },
   {
     "id": "20",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "20-10-2025",
     "name": "كبيش محمد السعيد",
     "address": "شارع فاضلي عمار",
@@ -261,7 +281,8 @@
   },
   {
     "id": "21",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "21-10-2025",
     "name": "عباسي امينة",
     "address": "حي زموش (جانب عيادة الشفاء)",
@@ -274,7 +295,8 @@
   },
   {
     "id": "22",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "22-10-2025",
     "name": "شليغم عبدالحليم",
     "address": "بوكروم (حي زعموش)",
@@ -287,7 +309,8 @@
   },
   {
     "id": "23",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "23-10-2025",
     "name": "عميور شيهاز",
     "address": "شارع دخلي مختار (قرب العيادة متعددة الخدمات) بوشرقة",
@@ -300,7 +323,8 @@
   },
   {
     "id": "24",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "24-10-2025",
     "name": "بوزقوق اميرة",
     "address": "بوشرقة (قبل المستشفى)",
@@ -313,7 +337,8 @@
   },
   {
     "id": "25",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "25-10-2025",
     "name": "برغيدة كمال",
     "address": "شارع كنيوة عاشور (مقهى كومباطة)",
@@ -326,7 +351,8 @@
   },
   {
     "id": "26",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "26-10-2025",
     "name": "مهيبل حسيبة",
     "address": "حي بوشرقة (بجانب المكتبة العملاقة)",
@@ -339,7 +365,8 @@
   },
   {
     "id": "27",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "27-10-2025",
     "name": "حاجي عبدالمحسن",
     "address": "شارع يوديز يوسف (قرب المستشفى القديم)",
@@ -352,7 +379,8 @@
   },
   {
     "id": "28",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "28-10-2025",
     "name": "بن سوهايي نبيل",
     "address": "شارع المجاهدين (الطاهير)",
@@ -365,7 +393,8 @@
   },
   {
     "id": "29",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "29-10-2025",
     "name": "مهيبل حسيبة",
     "address": "حي بوشرقة (بجانب المكتبة العملاقة)",
@@ -378,7 +407,8 @@
   },
   {
     "id": "30",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "30-10-2025",
     "name": "عباسي امينة",
     "address": "حي زموش (جانب عيادة الشفاء)",
@@ -391,7 +421,8 @@
   },
   {
     "id": "31",
-    "all":"allPharma",
+    "code": "taher",
+    "all": "allPharma",
     "date": "31-10-2025",
     "name": "سليماني سهيلة",
     "address": "حي مسكن 58 (مقابل مسجد سيدي يحي)",
@@ -404,7 +435,8 @@
   },
   {
     "id": "32",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "01-10-2025",
     "name": "حمام رياض مالك",
     "address": "نهج عبدالحميد بن ياديس (الجامع الكبير)",
@@ -417,7 +449,8 @@
   },
   {
     "id": "33",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "02-10-2025",
     "name": "بوزاري جيلان",
     "address": "حي الوزير (خلف العيادة المتعددة الخدمات)",
@@ -430,7 +463,8 @@
   },
   {
     "id": "34",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "03-10-2025",
     "name": "عبيدي احمد",
     "address": "حي موسى (قرب المستشفى)",
@@ -443,7 +477,8 @@
   },
   {
     "id": "35",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "04-10-2025",
     "name": "سكفالي الزهرة",
     "address": "نهج الامير عبد القادر 154 (باب السور)",
@@ -456,7 +491,8 @@
   },
   {
     "id": "36",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "05-10-2025",
     "name": "بوجيت زينب",
     "address": "حي الشهداء - ايوف (بقرب مركز الشرطة)",
@@ -469,7 +505,8 @@
   },
   {
     "id": "37",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "06-10-2025",
     "name": "حمودة رزيقة",
     "address": "طريق الصومام (مسجد فيلاج مصفى)",
@@ -482,7 +519,8 @@
   },
   {
     "id": "38",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "07-10-2025",
     "name": "خلاف عدنان",
     "address": "شارع الاخوة شكيرين (قرب الزاوية)",
@@ -495,7 +533,8 @@
   },
   {
     "id": "39",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "08-10-2025",
     "name": "سديرة رشيدة",
     "address": "حي مسكن 42 - أولاد عيسى (بجانب مسجد السنة)",
@@ -508,7 +547,8 @@
   },
   {
     "id": "40",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "09-10-2025",
     "name": "عماروش مليكة",
     "address": "شارع الحواس 13 (الكنيسية القديمة)",
@@ -521,7 +561,8 @@
   },
   {
     "id": "41",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "10-10-2025",
     "name": "رويدي هالة",
     "address": "حي عاشور (شارع المجاهدين)",
@@ -534,7 +575,8 @@
   },
   {
     "id": "42",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "11-10-2025",
     "name": "فاطس محمد كمال",
     "address": "حي لمقاسب",
@@ -547,7 +589,8 @@
   },
   {
     "id": "43",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "12-10-2025",
     "name": "عبدو منيرة",
     "address": "حي برفوقة",
@@ -560,7 +603,8 @@
   },
   {
     "id": "44",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "13-10-2025",
     "name": "يخلل ليلى",
     "address": "نهج الامير عبد القادر (بجانب محور دوران البلدية)",
@@ -573,7 +617,8 @@
   },
   {
     "id": "45",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "14-10-2025",
     "name": "دراعة نوال",
     "address": "حي روايح حسين (بجانب فندق النسيم)",
@@ -586,7 +631,8 @@
   },
   {
     "id": "46",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "15-10-2025",
     "name": "خلاق يمينة",
     "address": "شارع دخلي مختار (سوق وسط المدينة)",
@@ -599,7 +645,8 @@
   },
   {
     "id": "47",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "16-10-2025",
     "name": "حاجي حبيب",
     "address": "تجزئة لونيس (بالقرب من مديرية التربية)",
@@ -612,7 +659,8 @@
   },
   {
     "id": "48",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "17-10-2025",
     "name": "مسعودي عواطف",
     "address": "نهج عبد الحميد بن ياديس (البابور بابا عروج)",
@@ -625,7 +673,8 @@
   },
   {
     "id": "49",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "18-10-2025",
     "name": "حليفة بشير",
     "address": "حي بوريه الجوهري شارع بودراع عاشور (الخزينة العمومية)",
@@ -638,7 +687,8 @@
   },
   {
     "id": "50",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "19-10-2025",
     "name": "مراد خليفة",
     "address": "نهج بويشر أحمد (بالقرب من وكالة الأراضي)",
@@ -651,7 +701,8 @@
   },
   {
     "id": "51",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "20-10-2025",
     "name": "عبدو سمية",
     "address": "شارع لونيس مصفى - الحدادة (الطريق الرئيسي)",
@@ -664,7 +715,8 @@
   },
   {
     "id": "52",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "21-10-2025",
     "name": "شايب الدرع زياد",
     "address": "بن عاشور (طريق رئيسي ما بين مسجد بن عاشور و مدرسة نغيز) (السيتي)",
@@ -677,7 +729,8 @@
   },
   {
     "id": "53",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "22-10-2025",
     "name": "قوراس اسيا",
     "address": "حي موسى (بجانب مصلحة الولادة مستشفى جيجل)",
@@ -690,7 +743,8 @@
   },
   {
     "id": "54",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "23-10-2025",
     "name": "بنونيس علاء الدين",
     "address": "حي مسكن 90 (ايوف قرب مركز الشرطة)",
@@ -703,7 +757,8 @@
   },
   {
     "id": "55",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "24-10-2025",
     "name": "ويثاس هارون",
     "address": "نهج باخة مختار - بن شعيبون (مقابل مركز التكوين)",
@@ -716,7 +771,8 @@
   },
   {
     "id": "56",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "25-10-2025",
     "name": "مريلش رجاء",
     "address": "بن عاشور (قرب موقف الحافلات)",
@@ -729,7 +785,8 @@
   },
   {
     "id": "57",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "26-10-2025",
     "name": "حمدان وريدة",
     "address": "شارع الاخوة بوقطة (ايوف)",
@@ -742,7 +799,8 @@
   },
   {
     "id": "58",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "27-10-2025",
     "name": "اولمان ايمان",
     "address": "حي مسكن 120 رقم 214 (حي الامل - لعقابي)",
@@ -755,7 +813,8 @@
   },
   {
     "id": "59",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "28-10-2025",
     "name": "حسنان اميرة",
     "address": "طريق الصومام (مقابل لي بلاتان)",
@@ -768,7 +827,8 @@
   },
   {
     "id": "60",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "29-10-2025",
     "name": "فاطس محمد كمال",
     "address": "حي لمقاسب",
@@ -781,7 +841,8 @@
   },
   {
     "id": "61",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "30-10-2025",
     "name": "سوعيد محمد الطاهر",
     "address": "نهج أول نوفمبر (مركز البريد)",
@@ -794,7 +855,8 @@
   },
   {
     "id": "62",
-    "all":"allPharma",
+    "code": "jijel",
+    "all": "allPharma",
     "date": "31-10-2025",
     "name": "عبدالله عيلة",
     "address": "تجزئة بورمل رقم 35 (مقابل المركز التجاري غالكسي)",
@@ -807,7 +869,8 @@
   },
   {
     "id": "63",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "01-10-2025",
     "name": "بومة زهير",
     "address": "تجزئة بومهران",
@@ -820,7 +883,8 @@
   },
   {
     "id": "64",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "02-10-2025",
     "name": "قليل عمار",
     "address": "حي الضمان الاجتماعي",
@@ -833,7 +897,8 @@
   },
   {
     "id": "65",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "03-10-2025",
     "name": "فوفو علي",
     "address": "طريق جيش التحرير الوطني",
@@ -846,7 +911,8 @@
   },
   {
     "id": "66",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "04-10-2025",
     "name": "بوجعدار امير",
     "address": "حي عجنق",
@@ -859,7 +925,8 @@
   },
   {
     "id": "67",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "05-10-2025",
     "name": "بليل كريمة",
     "address": "شارع القل",
@@ -872,7 +939,8 @@
   },
   {
     "id": "68",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "06-10-2025",
     "name": "قارون نصر الدين",
     "address": "شارع القل رقم 42",
@@ -885,7 +953,8 @@
   },
   {
     "id": "69",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "07-10-2025",
     "name": "بوعندل لبني",
     "address": "مريجة",
@@ -898,7 +967,8 @@
   },
   {
     "id": "70",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "08-10-2025",
     "name": "العابيب وليد",
     "address": "طريق جيجل",
@@ -911,7 +981,8 @@
   },
   {
     "id": "71",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "09-10-2025",
     "name": "قاوش زهية",
     "address": "الصيدلية المركزية شارع أول نوفمبر (LA PLACE)",
@@ -924,7 +995,8 @@
   },
   {
     "id": "72",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "10-10-2025",
     "name": "بوعندل اللطيف",
     "address": "حي بولعتيقة صالح",
@@ -937,7 +1009,8 @@
   },
   {
     "id": "73",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "11-10-2025",
     "name": "لعبرة كريم",
     "address": "حي زهاني اسماعيل",
@@ -950,7 +1023,8 @@
   },
   {
     "id": "74",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "12-10-2025",
     "name": "بوعندل ريمة",
     "address": "حي المشتلة محل رقم 04",
@@ -963,7 +1037,8 @@
   },
   {
     "id": "75",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "13-10-2025",
     "name": "لبصير امال",
     "address": "الطريق الكبير",
@@ -976,7 +1051,8 @@
   },
   {
     "id": "76",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "14-10-2025",
     "name": "لبصير مريم",
     "address": "المحطة القديمة",
@@ -989,7 +1065,8 @@
   },
   {
     "id": "77",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "15-10-2025",
     "name": "بودميعة مواود",
     "address": "نهج فلسطين",
@@ -1002,7 +1079,8 @@
   },
   {
     "id": "78",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "16-10-2025",
     "name": "زعيط ريمة",
     "address": "شارع بولعقيربة تنس",
@@ -1015,7 +1093,8 @@
   },
   {
     "id": "79",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "17-10-2025",
     "name": "حميمد عبد المؤمن",
     "address": "طريق سكيكدة",
@@ -1028,7 +1107,8 @@
   },
   {
     "id": "80",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "18-10-2025",
     "name": "بوعندل اللطيف",
     "address": "حي بولعتيقة صالح",
@@ -1041,7 +1121,8 @@
   },
   {
     "id": "81",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "19-10-2025",
     "name": "حميمد علي",
     "address": "شارع زيغود يوسف 64",
@@ -1054,7 +1135,8 @@
   },
   {
     "id": "82",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "20-10-2025",
     "name": "بوعندل ريمة",
     "address": "حي المشتلة محل رقم 04",
@@ -1067,7 +1149,8 @@
   },
   {
     "id": "83",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "21-10-2025",
     "name": "لبصير امال",
     "address": "الطريق الكبير",
@@ -1080,7 +1163,8 @@
   },
   {
     "id": "84",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "22-10-2025",
     "name": "لواتي محمد لمين",
     "address": "المحيط الحضري رقم 07",
@@ -1093,7 +1177,8 @@
   },
   {
     "id": "85",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "23-10-2025",
     "name": "بولجويحة بريرة",
     "address": "الطريق الكبير",
@@ -1106,7 +1191,8 @@
   },
   {
     "id": "86",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "24-10-2025",
     "name": "دحواس الطاهر",
     "address": "شارع 96 قريدة عبد الحميد",
@@ -1119,7 +1205,8 @@
   },
   {
     "id": "87",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "25-10-2025",
     "name": "حميمد عبد المؤمن",
     "address": "طريق سكيكدة",
@@ -1132,7 +1219,8 @@
   },
   {
     "id": "88",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "26-10-2025",
     "name": "بن صالحية كريم",
     "address": "حي الاشجار",
@@ -1145,7 +1233,8 @@
   },
   {
     "id": "89",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "27-10-2025",
     "name": "حميمد علي",
     "address": "شارع زيغود يوسف 64",
@@ -1158,7 +1247,8 @@
   },
   {
     "id": "90",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "28-10-2025",
     "name": "مجذوب عاطف",
     "address": "تجزئة توسيع الشارع الكبير 24 حصة. محل رقم 02",
@@ -1171,7 +1261,8 @@
   },
   {
     "id": "91",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "29-10-2025",
     "name": "بوسالم أحمد",
     "address": "شارع جنوحات بشير",
@@ -1184,7 +1275,8 @@
   },
   {
     "id": "92",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "30-10-2025",
     "name": "لعور محمد أمين",
     "address": "شارع 20 اوت 1955",
@@ -1197,7 +1289,8 @@
   },
   {
     "id": "93",
-    "all":"allPharma",
+    "code": "milia",
+    "all": "allPharma",
     "date": "31-10-2025",
     "name": "بلاح نصرالدين",
     "address": "شارع بولطيف الصديق",
