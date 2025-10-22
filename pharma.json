@@ -1395,7 +1395,7 @@
     "languages": ["all", "milia"]
   },
   {
-    "id": 101,
+    "id": "101",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1410,7 +1410,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 102,
+    "id": "102",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1425,7 +1425,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 103,
+    "id": "103",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1440,7 +1440,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 104,
+    "id": "104",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1455,7 +1455,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 105,
+    "id": "105",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1470,7 +1470,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 106,
+    "id": "106",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1485,7 +1485,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 107,
+    "id": "107",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1500,7 +1500,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 108,
+    "id": "108",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1515,7 +1515,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 109,
+    "id": "109",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1530,7 +1530,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1010,
+    "id": "1010",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1545,7 +1545,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1011,
+    "id": "1011",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1560,7 +1560,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1012,
+    "id": "1012",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1575,7 +1575,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1013,
+    "id": "1013",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1590,7 +1590,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1014,
+    "id": "1014",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1605,7 +1605,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1015,
+    "id": "1015",
     "code": "taher",
     "all": "allPharma",
     "date": "",
@@ -1620,7 +1620,7 @@
     "languages": ["all", "jijel"]
   },
   {
-    "id": 1016,
+    "id": "1016",
     "code": "taher",
     "all": "allPharma",
     "date": "",
