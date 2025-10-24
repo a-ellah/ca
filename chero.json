@@ -1,52 +1,62 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/apps.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/qr.jpg",
+    "title": "apps",
+    "url": "Q R"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/book.jpg",
+    "title": "apps",
+    "url": "books"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/apps.jpg",
     "title": "apps",
     "url": "applications"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/sites.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/sites.jpg",
     "title": "sites",
     "url": "sites"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/pharma.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/pharma.jpg",
     "title": "pharma",
     "url": "pharmacies"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/doctor.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/doctor.jpg",
     "title": "doctor",
 
     "url": "doctors"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/tourism.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/tourism.jpg",
     "title": "tourism",
     "url": "tourism"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/service.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/service.jpg",
     "title": "service",
     "url": "services"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/price.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/price.jpg",
     "title": "price",
     "url": "prices"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/discount.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/discount.jpg",
     "title": "discount",
     "url": "discounts"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/food.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/food.jpg",
     "title": "food",
     "url": "foods"
   },
   {
-    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/recipe.jpg",
+    "logo": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/chero/recipe.jpg",
     "title": "recipe",
     "url": "recipes"
   }
