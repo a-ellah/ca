@@ -12,8 +12,8 @@
     "pub": "معهد الكويت للأبحاث العلمية-الكويت",
     "date": "2004",
     "code": "Ar_051-10",
-    "categories": ["All", "Ara", "000"],
-    "libraries": ["All", "Tah"]
+    "categories": ["All", "Tah", "Ara", "000"],
+    "libraries": []
   },
   {
     "id": "Anc",
@@ -28,7 +28,7 @@
     "pub": "دار الثقافة للنشر والتوزيع",
     "date": "2007",
     "code": "Ar_100-52",
-    "categories": ["All", "Ara", "100"],
-    "libraries": ["All", "Anc"]
+    "categories": [],
+    "libraries": ["All", "Anc", "Ara", "000"]
   }
 ]
