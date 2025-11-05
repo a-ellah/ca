@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Tah",
+    "libr": "المكتبة البلدية الطاهير وسط",
+    "web": "https://m.facebook.com/100094392908872/",
+    "mail": "maktabataher@gmail.com",
+    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+    "cover": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/cover/TahAr_813-616.jpg",
+    "title": "افتضاح عبادة الأصنام",
+    "name": "دون مؤلف",
+    "trans": "--------",
+    "pub": "ابتكار -الجزائر",
+    "date": "--------",
+    "code": "Ar_813-616",
+    "categories": ["All", "Ara", "800"],
+    "libraries": ["All", "Tah"]
+  },
+  {
+    "id": "Anc",
+    "libr": "المكتبة البلدية العنصر",
+    "web": "https://www.facebook.com/p/100088549635334/",
+    "mail": "maktabaancer@gmail.com",
+    "map": "https://maps.app.goo.gl/kSL6DSgfvDQD5iiE9",
+    "cover": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/cover/TahAr_300-284.jpg",
+    "title": "اقتصاد السوق والعولمة البديلة",
+    "name": "الدكتور ضياء مجيد الموسوي",
+    "trans": "-------",
+    "pub": "دار هومة للطباعة والنشر والتوزيع",
+    "date": "2009",
+    "code": "Ar_300-284",
+    "categories": ["All", "Ara", "300"],
+    "libraries": ["All", "Anc"]
+  }
+]
