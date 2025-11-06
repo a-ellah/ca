@@ -1,37 +1,37 @@
 [
   {
-    "name": "يوتـــوب",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/y.svg",
+    "title": "يوتـــوب",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/y.svg",
     "url": "https://www.youtube.com"
   },
   {
-    "name": "تيك تـــوك",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/t.svg",
+    "title": "تيك تـــوك",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/t.svg",
     "url": "https://www.tiktok.com"
   },
   {
-    "name": "فيسبـــوك",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/f.svg",
+    "title": "فيسبـــوك",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/f.svg",
     "url": "https://www.facebook.com"
   },
   {
-    "name": "تويتـر X",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/x.svg",
+    "title": "تويتـر X",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/x.svg",
     "url": "https://twitter.com"
   },
   {
-    "name": "انستقــرام",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/i.svg",
+    "title": "انستقــرام",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/i.svg",
     "url": "https://www.instagram.com"
   },
   {
-    "name": "بلاي ستور",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/s.svg",
+    "title": "بلاي ستور",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/s.svg",
     "url": "https://play.google.com/store/apps/dev?id=7565993010545143304"
   },
   {
-    "name": "بنتـــرست",
-    "icon": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/p.svg",
+    "title": "بنتـــرست",
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/p.svg",
     "url": "https://www.pinterest.com"
   }
 ]
