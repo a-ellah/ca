@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/weather.png",
+    "title": "Weather App",
+    "url": "https://drive.google.com/uc?id=149KqBfiXeQVPKOzCl3h2nl7bmTIgCwUH&export=download"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/chero.png",
+    "title": "Chero",
+    "url": "https://chero.site"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/google.png",
+    "title": "Google",
+    "url": "https://google.com"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/youtube.png",
+    "title": "Youtube",
+    "url": "https://www.youtube.com"
+  }
+]
