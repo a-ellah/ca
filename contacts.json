@@ -2,36 +2,43 @@
   {
     "title": "يوتـــوب",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/y.svg",
-    "url": "https://www.youtube.com"
+    "url": "https://www.youtube.com",
+    "urlapp": "https://www.youtube.com"
   },
   {
     "title": "تيك تـــوك",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/t.svg",
-    "url": "https://www.tiktok.com"
+    "url": "https://www.tiktok.com",
+    "urlapp": ""
   },
   {
     "title": "فيسبـــوك",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/f.svg",
-    "url": "https://www.facebook.com"
+    "url": "https://www.facebook.com",
+    "urlapp": ""
   },
   {
     "title": "تويتـر X",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/x.svg",
-    "url": "https://twitter.com"
+    "url": "https://twitter.com",
+    "urlapp": ""
   },
   {
     "title": "انستقــرام",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/i.svg",
-    "url": "https://www.instagram.com"
+    "url": "https://www.instagram.com",
+    "urlapp": ""
   },
   {
     "title": "بلاي ستور",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/s.svg",
-    "url": "https://play.google.com/store/apps/dev?id=7565993010545143304"
+    "url": "https://play.google.com/store/apps/dev?id=7565993010545143304",
+    "urlapp": ""
   },
   {
     "title": "بنتـــرست",
     "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/contacts/p.svg",
-    "url": "https://www.pinterest.com"
+    "url": "https://www.pinterest.com",
+    "urlapp": ""
   }
 ]
