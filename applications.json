@@ -1,0 +1,32 @@
+[
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/weather.png",
+    "title": "Weather App",
+    "url": "https://drive.google.com/uc?id=149KqBfiXeQVPKOzCl3h2nl7bmTIgCwUH&export=download"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/mini_notes.png",
+    "title": "Mini Notes",
+    "url": "https://github.com/Ed-Movchan/mini_notes/releases/download/mini_notes-v0.1.0/mini_notes-v0.1.0.apk"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/host_pinger.png",
+    "title": "Host Pinger",
+    "url": "https://github.com/Ed-Movchan/host-pinger/releases/download/v0.1.0/host_pinger-0.1.0.apk"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/scanning.png",
+    "title": "Port Scanner",
+    "url": "https://github.com/Ed-Movchan/port-scanner/releases/download/v0.1.0/port_scanner-v0.1.0.apk"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/whois.png",
+    "title": "Whois",
+    "url": "https://github.com/Ed-Movchan/whois/releases/download/v0.1.0/whois-v0.1.0.apk"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/ca/refs/heads/main/app/tap.png",
+    "title": "Tap Battle Game",
+    "url": "https://github.com/Ed-Movchan/tap_battle_game/releases/download/tap_battle_game-v0.1.0/tap_battle_game-v0.1.0.apk"
+  }
+]
