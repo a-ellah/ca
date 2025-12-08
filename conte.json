@@ -1,5 +1,7 @@
 {
   "phone": "0555555555",
   "whatsapp": "966555555555",
-  "email": "info@yoursite.com"
+  "email": "info@yoursite.com",
+  "website": "https://www.google.com",
+  "share_text": "حمل تطبيقنا الرائع من هنا: https://play.google.com/store/apps/details?id=com.example.yourapp"
 }
