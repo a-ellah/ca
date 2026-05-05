@@ -1,7 +1,7 @@
 [
   {
     "stationuuid": "cora",
-    "name": "Es Radio",
+    "name": "ca-radio",
     "url_resolved": "http://s2.voscast.com:12312/;",
     "tags": "Radio Algeria",
     "country": "Algeria",
