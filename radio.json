@@ -39,6 +39,7 @@
     "country": "Algeria",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qooo.png"
   },
+  { "stationuuid": "esra", "name": "ES Radio", "url_resolved": "http://livestreaming.esradio.fm/stream64.mp3", "tags": "Radio Espanol", "country": "Espania", "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/esra.png" }
   {
     "stationuuid": "cha1",
     "name": "Radio chaine 1 الإذاعــة الأولى",
