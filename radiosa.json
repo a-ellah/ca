@@ -65,6 +65,7 @@
     "url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cult.png"
   },
+  { "stationuuid": "esra", "name": "ES Radio", "url_resolved": "http://livestreaming.esradio.fm/stream64.mp3", "tags": "Radio Espanol", "country": "Espania", "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/esra.png" }
   {
     "stationuuid": "bahd",
     "name": "Radio Bahdja إذاعــة البهجة",
